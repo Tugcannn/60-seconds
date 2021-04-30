@@ -1,2 +1,2 @@
 # 60-seconds
-Mouse click game
+A mouse click game while improves your attention
